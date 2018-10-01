@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tips.xsl"?> 
+<rss version="2.0">
+	<channel>
+		<title>Nya tips från webb-guiden.com</title>
+		<link>http://www.webb-guiden.com</link>
+		<description>Enkla tips för att göra Internet mer användbart för dig</description>
+		
+		<item>
+			<title>För liten text?</title>
+			<link>http://privat.bahnhof.se/wb113360/ditt_surfande.html#small_text</link>
+			<description>Om texten är alldeles för liten på en webbplats är det enkelt att fixa. Tryck ctrl och + på ditt tangetbort för att förstora texten.</description>
+		</item>
+		
+		<item>
+			<title>Trött på all reklam på nätet?</title>
+			<link>http://privat.bahnhof.se/wb113360/ditt_surfande.html#reklam</link>
+			<description>Det finns enkla lösningar för att få bort reklam ifrån din webbläsare. En väldigt populär sådan är adblock.</description>
+		</item>
+		
+		<item>
+			<title>Läs nyheter från flera källor</title>
+			<link>http://privat.bahnhof.se/wb113360/nyhettips.html#olika_nyheter</link>
+			<description>Som med allt i livet så gäller det att ifrågasätta vad det är du läser. Även om det stämmer så kan det ha vinklats, även omedvetet.</description>
+		</item>
+		
+		<item>
+			<title>Svårt att läsa engelska nyheter? Inga problem</title>
+			<link>http://privat.bahnhof.se/wb113360/nyhettips.html#engelska</link>
+			<description>Med Google Translate kan du läsa nyheter ifrån andra språk</description>
+		</item>
+		
+		 <item>
+			<title>För många nyhetskällor? Samla dem!</title>
+			<link>http://privat.bahnhof.se/wb113360/nyhettips.html#samla</link>
+			<description>Med hjälp av t.ex. RSS går det att samla alla sina nyhetskällor till en och samma plats</description>
+		</item>
+		
+		<item>
+			<title>Prisjämförelser</title>
+			<link>http://privat.bahnhof.se/wb113360/handlingstips.html#prisjakt</link>
+			<description>Trött på att alltid ha köpt en vara för att sedan hitta att den kostade 300 kr mindre i en annan affär? Börja använda dig av prisjämförelsesidor då!</description>
+		</item>
+		
+		<item>
+			<title>Handla begagnat</title>
+			<link>http://privat.bahnhof.se/wb113360/handlingstips.html#begagnat</link>
+			<description>Om du vill göra riktiga klipp så kan det vara klokt att handla begagnat, även om det är mer riskfyllt. Något fler borde testa är dock ebay som är bra mycket billigare än de svenska alternativen.</description>
+		</item>
+		
+		<item>
+			<title>Handla säkrare</title>
+			<link>http://privat.bahnhof.se/wb113360/handlingstips.html#handla_safe</link>
+			<description>Det går att bli lurad när du handlar på nätet, inte alls ovanligt. Däremot kan du lära dig rutiner som gör att du kan minimera risken att bli lurad vid köp.</description>
+		</item>
+		
+		<item>
+			<title>Handla från utlandet</title>
+			<link>http://privat.bahnhof.se/wb113360/handlingstips.html#utomlands</link>
+			<description>När du handlar från utlandet kan det vara klokt att känna till tullregler. Om en vara fastnar i tullen kan det leda till onödiga avgifter för att ens kunna hämta ut varan.</description>
+		</item>
+		
+	
+	</channel>
+</rss>
